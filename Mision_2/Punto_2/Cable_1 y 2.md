@@ -13,7 +13,7 @@ POTENCIA DE SALIDA (CABLE 2):
 
 ![CamScanner 05-09-2025 18 16_2](https://github.com/user-attachments/assets/2f94ce14-6662-4e5a-b646-aadf00e2061e)
 
-Esta es la potencia de salida del cable 1  de un valor de -41.03 dBm con frecuencia de 200MHz, el cable 2 en la punta 1 tiene un valor de 37.702 y en la punta 2 un valor de 37.576, con una disancia de 126 ft.
+Esta es la potencia de salida del cable 2  de un valor de -41.03 dBm con frecuencia de 200MHz, el cable 2 en la punta 1 tiene un valor de 37.702 y en la punta 2 un valor de 37.576, con una disancia de 126 ft.
 
 
 ATENUACION PRACTICA:
