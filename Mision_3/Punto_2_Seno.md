@@ -1,8 +1,7 @@
 Punto 2
 SEÑAL SENOSOIDAL 
 
-
-En este documento se encuentra la señal senosoidal trasmitida:
+Imagen de la señal Modulada AM con la señal sinusoidal 
 
 ![WhatsApp Image 2025-09-09 at 7 22 47 PM](https://github.com/user-attachments/assets/c8a87cef-1da5-44ca-ac36-873fe59108d4)
 
