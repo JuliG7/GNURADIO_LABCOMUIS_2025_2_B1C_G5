@@ -11,3 +11,4 @@ Se configuró el analizador de espectro en el rango de frecuencia de la antena b
 
 y se comparo con la señal recibida con una antena
 ![WhatsApp Image 2025-10-05 at 8 08 22 PM](https://github.com/user-attachments/assets/a096e6ed-6c2f-4d95-9ba0-ab045c5fdec7)
+
