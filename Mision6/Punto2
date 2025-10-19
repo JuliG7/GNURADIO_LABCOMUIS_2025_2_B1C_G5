@@ -1,4 +1,0 @@
-Despues de crear el audio.wav se construyó la estructura de la señal que modula l aportadora de RF.
-Se cargo el archivo de audio estéreo en GNU Radio.
-Generamos la señal MPX con los respectivos bloques.
-Incluye la señal L+R generando el tono piloto de 19kHz, laseñal de L-R  modulando una subportadora de 30kHz mediante AM
